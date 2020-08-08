@@ -1,0 +1,16 @@
+install app using
+npx create-react-app .
+install axios
+npm i axios
+copy img folder to src folder
+move favicon to public folder
+change title name in index.html
+create components/ui folder
+create Header functional component inside that
+Inside header return breaking bad logo
+add container class for app component
+add Header into app component
+usestate to store default values
+useEffect to call api using async axios
+
+
